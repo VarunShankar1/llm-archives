@@ -23,3 +23,5 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+
+Pretty interesting. I liked how the extraction not only provided the names of proper nouns but also added a bit more context. I don't know exactly how this could be used but it's clear that this is an important step in turning unstructured data into structured data. This information can be used to group sources, story topics, locations and use other data (page views perhaps) to see what stories do best. It can also be done to see if sourcing is truly equitable. 
